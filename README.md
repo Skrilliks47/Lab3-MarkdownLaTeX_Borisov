@@ -26,23 +26,23 @@
 
 ## Структура проекта
 
-Lab3-MarkdownLaTeX_Иванов_ИИ/
+Lab3-MarkdownLaTeX_Borisov/
 
 *   README.md
 *   docs/
-    *   headersLab3_ФИО.md
-    *   separatorsLab3_ФИО.md
-    *   formattingLab3_ФИО.md
-    *   listsLab3_ФИО.md
-    *   linksImagesLab3_ФИО.md
-    *   codeQuotesLab3_ФИО.md
-    *   tablesLab3_ФИО.md
-    *   advancedMarkdownLab3_ФИО.md
-    *   latexLab3_ФИО.md
+    *   headersLab3_Borisov.md
+    *   separatorsLab3_Borisov.md
+    *   formattingLab3_Borisov.md
+    *   listsLab3_Borisov.md
+    *   linksImagesLab3_Borisov.md
+    *   codeQuotesLab3_Borisov.md
+    *   tablesLab3_Borisov.md
+    *   advancedMarkdownLab3_Borisov.md
+    *   latexLab3_Borisov.md
 *   latex/
 *   img/
-    *   gitPushLab3_ФИО.png
-    *   headersCommitLab3_ФИО.png
+    *   gitPushLab3_Borisov.png
+    *   headersCommitLab3_Borisov.png
 
 ---
 
